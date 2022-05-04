@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">
+	<channel>
+		<title>eMAGCY.COM</title>
+		<link>https://emagcy.com/index.php/</link>
+		<description>This is a sample feed containing the required and recommended attributes for a variety of different products</description>
+		<item>
+			<g:id><![CDATA[4520/EM238107]]></g:id>
+			<title><![CDATA[Apple iPhone 13 128 GB Smartphone RED]]></title>
+			<description><![CDATA[RAM memory in GB: 4
+Screen Size in Inches: 6.1
+Main Camera: Dual 12 Mp & 12 Mp
+Selfie Camera: 12 Mp
+Number of Kernels: Hexa Core
+GB capacity: 128]]></description>
+			<g:google_product_category><![CDATA[ALL PROMOTIONS]]></g:google_product_category>
+			<g:product_type><![CDATA[ALL PROMOTIONS]]></g:product_type> 
+			<link><![CDATA[https://emagcy.com/index.php/catalog/product/view/id/4520/]]></link>
+			<g:image_link><![CDATA[https://emagcy.com/media/catalog/product/a/p/apple-iphone-13-128-gb-red-mobile-smartphone.jpg]]></g:image_link>
+			<g:condition></g:condition>
+			<g:availability>in stock</g:availability>
+			<g:price>929.00 INR</g:price>
+			<g:sale_price>899.00 INR</g:sale_price>
+			<g:brand><![CDATA[Apple]]></g:brand>
+		</item>
+	</channel>
+</rss>
