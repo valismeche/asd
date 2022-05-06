@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+<product>
+<product_id><![CDATA[5405391159456]]></product_id>
+<name><![CDATA[Linea Lucy]]></name>
+<description><![CDATA[]]></description>
+<price><![CDATA[38.00]]></price>
+<compare_at_price><![CDATA[]]></compare_at_price>
+<quantity><![CDATA[20]]></quantity>
+<in_stock><![CDATA[Y]]></in_stock>
+<image><![CDATA[https://cdn.shopify.com/s/files/1/0434/7019/2800/products/PB_66_-_BRACCIALE_-_38_00.jpg?v=1595174381]]></image>
+<images>
+<image>
+<![CDATA[https://cdn.shopify.com/s/files/1/0434/7019/2800/products/PB_66_-_BRACCIALE_-_38_00.jpg?v=1595174381]]>
+</image>
+</images>
+<link><![CDATA[https://www.puntogjewellery.com/products/pb66]]></link>
+<category><![CDATA[]]></category>
+<manufacturer><![CDATA[PuntoG]]></manufacturer>
+<product_type><![CDATA[BRACELET]]></product_type>
+<tags><![CDATA[]]></tags>
+<barcode><![CDATA[PB66]]></barcode>
+<sku><![CDATA[]]></sku>
+<weight><![CDATA[0]]></weight>
+<variant_title><![CDATA[]]></variant_title>
+<variant_link><![CDATA[]]></variant_link>
+<variant_image><![CDATA[]]></variant_image>
+<variant_id><![CDATA[]]></variant_id>
+<combine_name><![CDATA[]]></combine_name>
+
+
+</product>
+</products>
