@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE newtable [
+  <!ELEMENT newtable (DATA_RECORD*)>
+  <!ELEMENT DATA_RECORD (sku?,name?,image?,additionalimage?,category?,price_with_vat?,manufacturer?,mpn?,ean?,instock?,availability?,size?,weight?,color?)+>
+  <!ELEMENT sku (#PCDATA)>
+  <!ELEMENT name (#PCDATA)>
+  <!ELEMENT image (#PCDATA)>
+  <!ELEMENT additionalimage (#PCDATA)>
+  <!ELEMENT category (#PCDATA)>
+  <!ELEMENT price_with_vat (#PCDATA)>
+  <!ELEMENT manufacturer (#PCDATA)>
+  <!ELEMENT mpn (#PCDATA)>
+  <!ELEMENT ean (#PCDATA)>
+  <!ELEMENT instock (#PCDATA)>
+  <!ELEMENT availability (#PCDATA)>
+  <!ELEMENT size (#PCDATA)>
+  <!ELEMENT weight (#PCDATA)>
+  <!ELEMENT color (#PCDATA)>
+]>
+<newtable>
+  <DATA_RECORD>
+    <sku>A1907-0002</sku>
+    <name>LEVIS WOMEN CLOTHING SNACK SWEAT SHORT A1907-0002</name>
+    <image>https://www.sansirosports.com/product_catalog/groups/42218/a1907-0002.jpg</image>
+    <additionalimage>https://www.sansirosports.com/product_catalog/groups/42218/a1907-0002.jpg</additionalimage>
+    <category>ΣΟΡΤΣ</category>
+    <price_with_vat>36</price_with_vat>
+    <manufacturer>LEVI'S</manufacturer>
+    <mpn>A1907-0002</mpn>
+    <ean></ean>
+    <instock>111</instock>
+    <availability>Παράδοση 1 έως 3 ημέρες</availability>
+    <size>Large,Medium,Small,XSmall</size>
+    <weight></weight>
+    <color>GREEN</color>
+  </DATA_RECORD>
+</newtable>
